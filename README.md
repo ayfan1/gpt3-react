@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# gpt3-react
 
-gpt3-react
+
 
 ## Available Scripts
 
